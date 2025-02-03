@@ -92,5 +92,5 @@ O modelo de regressão linear é uma abordagem simples e pode não ser o mais ad
 ## Contato
 Se tiver alguma dúvida ou sugestão, entre em contato:
 
-[Charles William]
-[c_wasouza@outlook.com]
+## Charles William
+c_wasouza@outlook.com
